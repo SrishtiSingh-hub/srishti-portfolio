@@ -2,11 +2,13 @@
 
 Hey! Welcome to my portfolio.
 
- It's coming up tomorrow when I learned HTML and CSS.
+ Here are the few technologies that I have learned so far: 
 
- For now, I know:
-
- 1. JavaScript
- 2. NodeJs
- 3. Repl.it 
- 4. CHALK
+ 1. HTML
+ 2. CSS
+ 3. JavaScript
+ 4. NodeJs
+ 5. Git
+ 6. ReactJs 
+ 7. Repl.it
+ 8. Web Hosting
